@@ -1,10 +1,10 @@
 {
   "name": "chrono-node",
   "description": "A natural language date parser in Javascript",
-  "homepage": "http://github.com/wanasit/chrono",
+  "homepage": "http://github.com/pinalto/chrono",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wanasit/chrono.git"
+    "url": "https://github.com/pinalto/chrono.git"
   },
   "prettier": {
     "quoteProps": "preserve"
@@ -15,7 +15,7 @@
     "preset": "ts-jest"
   },
   "license": "MIT",
-  "version": "2.3.7",
+  "version": "2.4.0",
   "directories": {
     "source": "./src",
     "test": "./test"
